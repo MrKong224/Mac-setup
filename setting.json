@@ -123,7 +123,7 @@
 				"scope": ["comment", "comment.block"],
 				"settings": {
 					"fontStyle": "italic",
-					"foreground": "#ff71bd"
+					"foreground": "#ff00dd"
 				}
 			},
 			{
@@ -136,7 +136,7 @@
 				"scope": ["comment", "comment.block"],
 				"settings": {
 					"fontStyle": "italic",
-					"foreground": "#ff71bd"
+					"foreground": "#ff00dd"
 				}
 			},
 			{
@@ -149,7 +149,7 @@
 				"scope": ["comment", "comment.block"],
 				"settings": {
 					"fontStyle": "italic",
-					"foreground": "#ff71bd"
+					"foreground": "#ff00dd"
 				}
 			},
 			{
@@ -162,7 +162,7 @@
 				"scope": ["comment", "comment.block"],
 				"settings": {
 					"fontStyle": "italic",
-					"foreground": "#ff71bd"
+					"foreground": "#ff00dd"
 				}
 			},
 			{
